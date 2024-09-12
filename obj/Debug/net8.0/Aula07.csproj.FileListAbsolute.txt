@@ -1,0 +1,14 @@
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfoInputs.cache
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfo.cs
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.csproj.CoreCompileInputs.cache
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\bin\Debug\net8.0\Aula07.exe
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\bin\Debug\net8.0\Aula07.deps.json
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\bin\Debug\net8.0\Aula07.runtimeconfig.json
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\bin\Debug\net8.0\Aula07.dll
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\bin\Debug\net8.0\Aula07.pdb
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.dll
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\refint\Aula07.dll
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.pdb
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\Aula07.genruntimeconfig.cache
+C:\segundo-semestre (faculdade)\laboratorio_de_computacao\Aula07\obj\Debug\net8.0\ref\Aula07.dll
